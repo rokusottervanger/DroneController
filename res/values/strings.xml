@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Motor Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="theta_is">theta = </string>
+    <string name="phi_is">phi = </string>
+    <string name="psi_is">psi = </string>
+
+</resources>

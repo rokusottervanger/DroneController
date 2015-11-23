@@ -1,0 +1,14 @@
+com.rokus.motorcontroller
+ioio.lib
+ioio.lib.accessory
+ioio.lib.android.accessory
+ioio.lib.android.bluetooth
+ioio.lib.api
+ioio.lib.api.exception
+ioio.lib.bluetooth
+ioio.lib.impl
+ioio.lib.pc
+ioio.lib.spi
+ioio.lib.util
+ioio.lib.util.android
+ioio.lib.util.pc
